@@ -37,13 +37,13 @@ This notebook includes:
 
 # 📊 Visualizations Included
 
-## 📌 Histogram
+## Histogram
 Used to understand feature distributions.
 
-## 📌 Box Plot
+## Box Plot
 Used to detect outliers and compare feature spread.
 
-## 📌 Correlation Heatmap
+## Correlation Heatmap
 Used to identify relationships between numerical variables.
 
 ---
