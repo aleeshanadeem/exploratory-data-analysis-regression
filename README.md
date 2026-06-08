@@ -11,7 +11,7 @@ The notebook focuses on:
 
 ---
 
-# 🚀 Project Overview
+#  Project Overview
 
 This notebook includes:
 
