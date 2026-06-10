@@ -25,7 +25,7 @@ This notebook includes:
 
 ---
 
-# 🛠️ Libraries Used
+#  Libraries Used
 
 - Pandas
 - NumPy
